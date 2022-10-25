@@ -1,0 +1,108 @@
+
+.top-box {
+  padding-top: 10%;
+  background-color: #FDFDBD;
+  text-align: center;
+}
+.topbox-img{
+
+  width: 80%;
+  height:80%;
+}
+.topbox-content{
+  text-align: center;
+}
+
+.middle-box{
+  background-color: #B8E8FC;
+  padding-top: 5%;
+  padding-bottom: 1.5%;
+}
+
+.intro{
+  text-align: center;
+  padding-left:7%;
+  width:50%;
+}
+
+.my-pic{
+  padding-left: 20%;
+  height: 300px;
+  width: 400px;
+}
+.favicon{
+  padding-left: 20%;
+  height: 50px;
+  width: 50px;
+}
+
+.cp-image{
+  padding-left: 10%;
+
+}
+.cp-content{
+  width: 50%;
+  padding-right: 10%;
+}
+
+.webd-img{
+  padding-left: 40%;
+}
+
+.webd-content{
+  width: 50%;
+  padding-right: 10%;
+}
+
+
+
+hr{
+  background-color: #B8E8FC;
+
+  width: 3%;
+  border-color: grey;
+}
+.contact-msg{
+  margin: 50px auto 50px;
+  width: 40%;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 20px;
+  background: #888e91;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #000000;
+  text-decoration: none;
+}
+
+
+
+.bottom-box{
+  text-align: center;
+  background-color: white;
+  padding-top: 30px;
+
+}
+.linkedin{
+  width: 30px;
+  height:30px;
+
+}
+.twitter{
+  width: 30px;
+  height:30px;
+
+}
+.instagram{
+  width: 30px;
+  height:30px;
+}
